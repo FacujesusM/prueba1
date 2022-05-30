@@ -12,6 +12,7 @@ package com.mycompany.batallanaval;
 public class BatallaNaval {
 
     public static void main(String[] args) {
+        hola
         System.out.println("Hello World!");
     }
 }
